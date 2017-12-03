@@ -1,2 +1,2 @@
 # sugar-labs-hello-world
-NPM package created for google code in 2017
+NPM package that prints "Hello World". Created for Google Code-in 2017
