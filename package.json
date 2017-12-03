@@ -1,6 +1,6 @@
 {
-  "name": "sugar-labs-hello-world",
-  "version": "1.0.0",
+  "name": "@jeffreyshen19/sugar-labs-hello-world",
+  "version": "1.1.0",
   "description": "Prints hello world!",
   "main": "index.js",
   "scripts": {
